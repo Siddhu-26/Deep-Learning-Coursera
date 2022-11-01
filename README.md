@@ -1,2 +1,2 @@
-# Deep_Learning_Coursera
+# Deep Learning Coursera Assignments
 Deep Learning Specialization Coursera Assignments
